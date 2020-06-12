@@ -1,4 +1,4 @@
-# Sprint Challenge: State Management - Smurfs
+# Sprint Challenge: State Management - Smurfs.
 
 This challenge allows you to practice the concepts and techniques learned over the past Sprint and apply them in a concrete project. This Sprint explored the context API, the reducer pattern, and Redux. In your challenge for this Sprint, you will demonstrate proficiency by creating an application that uses ReactJS to consume live data retrieved from the World Wide Web.
 
@@ -8,7 +8,7 @@ This is an individual assessment. All work must be your own. Your challenge scor
 
 You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your PM and Instructor in your cohort help channel on Slack. Your work reflects your proficiency throughout State Management and your command of the concepts and techniques in the the context API, the reducer pattern, and Redux.
 
-You have three hours to complete this challenge. Plan your time accordingly.
+You have three hours to complete this challenge. Plan your time accordingly..
 
 ## Commits
 
